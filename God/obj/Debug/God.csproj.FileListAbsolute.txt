@@ -1,0 +1,6 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\God\God\bin\Debug\God.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\God\God\bin\Debug\God.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\God\God\bin\Debug\God.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.csprojResolveAssemblyReference.cache
