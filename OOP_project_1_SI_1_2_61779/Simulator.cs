@@ -115,18 +115,9 @@ namespace God
                                     }
                                     else
                                     {
-
-
-                                        if (Scene.AllPlanets[i].citizens[m].GetType() == Scene.AllPlanets[i].citizens[m+1].GetType())
-                                        {
-                                            Entity q = new Entity(number.RandomName());
-                                            mPlayer.AddCitizen(Scene.AllPlanets[i], q);
-                                            Console.WriteLine("{0} and {1} have baby-{2}", Scene.AllPlanets[i].citizens[m], Scene.AllPlanets[i].citizens[m + 1], q.Name);
-                                        }
-                                        else
-                                        {
-                                            Console.WriteLine("{0} and {1} tried to have baby but are diferent types", Scene.AllPlanets[i].citizens[m], Scene.AllPlanets[i].citizens[m + 1]);
-                                        }
+                                        Entity q = new Entity(number.RandomName());
+                                        mPlayer.AddCitizen(Scene.AllPlanets[i], q);
+                                        Console.WriteLine("{0} and {1} have baby-{2}", Scene.AllPlanets[i].citizens[m], Scene.AllPlanets[i].citizens[m+1], q.Name);
                                     }
                                     Thread.Sleep(5000);
                                 }

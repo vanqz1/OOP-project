@@ -13,7 +13,6 @@ namespace God
         static void Main(string[] args)
         {
             Simulator m = new Simulator();
-            
 
             m.Run();
         }

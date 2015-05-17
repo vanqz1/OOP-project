@@ -20,20 +20,20 @@ namespace God
         public AEntity()
         {
            this.Name = nameR.RandomName();
-            this.Energy = 10;
-            this.Power = 10;
-            this.Size = 10;
-            this.Weight = 10;
+            this.Energy = 0;
+            this.Power = 0;
+            this.Size = 0;
+            this.Weight = 0;
             this.Point = new Point2D();
             this.State = State.Unknown;
         }
         public AEntity(string name)
         {
             this.Name = name;
-            this.Energy = 10;
-            this.Power = 10;
-            this.Size = 10;
-            this.Weight = 10;
+            this.Energy = 0;
+            this.Power = 0;
+            this.Size = 0;
+            this.Weight = 0;
             this.Point = new Point2D();
             this.State = State.Unknown;
         }

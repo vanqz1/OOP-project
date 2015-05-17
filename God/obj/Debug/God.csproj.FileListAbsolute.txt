@@ -4,3 +4,9 @@ c:\users\lenovo\documents\visual studio 2013\Projects\God\God\bin\Debug\God.pdb
 c:\users\lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.exe
 c:\users\lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.pdb
 C:\Users\Lenovo\documents\visual studio 2013\Projects\God\God\obj\Debug\God.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\bin\Debug\God.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\obj\Debug\God.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\obj\Debug\God.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\bin\Debug\God.exe
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\bin\Debug\God.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2013\Projects\OOP_project_1_SI_1_2_61779\OOP-project\God\obj\Debug\God.csprojResolveAssemblyReference.cache
