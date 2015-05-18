@@ -46,6 +46,35 @@ namespace God
             this.Energy += food.RandomNumbers(100,120);
         }
 
+        public override void DoAction(AEntity entityAttacked)
+        {
+            RandomG num=new RandomG();
+            double nextNum=num.RandomNumbers(-100,200);
+            if (nextNum < -50)
+            {
+                this.State = State.Attacking;
+            }
+            else if (nextNum >= -50 && nextNum < 0)
+            {
+                this.State = State.Sleeping;
+            }
+            else if (nextNum >= 0 && nextNum < 50)
+            {
+                this.State = State.Sleeping;
+            }
+            else if (nextNum >= 50 && nextNum < 100)
+            {
+
+                this.State = State.SearchingForFood;
+            }
+            else
+            {
+                this.State = State.Moving;
+
+            }
+
+        }
+
         public override string ToString()
         {
             return "Animal: " + "Name " + this.Name;
